@@ -1,0 +1,14 @@
+{
+  "xgboost": {
+    "auc_roc": 0.8692,
+    "f1_score": 0.4522,
+    "ks_statistic": 0.577,
+    "optimal_threshold": 0.2
+  },
+  "random_forest": {
+    "auc_roc": 0.8596,
+    "f1_score": 0.4299,
+    "ks_statistic": 0.5599,
+    "optimal_threshold": 0.67
+  }
+}

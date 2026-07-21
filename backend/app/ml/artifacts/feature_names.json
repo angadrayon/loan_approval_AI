@@ -1,0 +1,12 @@
+[
+  "age",
+  "monthly_income",
+  "employment_status_encoded",
+  "employment_length",
+  "credit_score",
+  "existing_loans",
+  "monthly_emi",
+  "dti_ratio",
+  "credit_utilization",
+  "loan_amount_requested"
+]
